@@ -1,6 +1,5 @@
 **This project uses selenium.**
 
-# Project Title
 
 ## INSTAGRAM FOLLOWER BOT
 
@@ -24,7 +23,10 @@ By automating the process of searching for similar accounts and following their 
 
 This is a public repo and thus to make a contribution to project, make a pull request. 
 
-## Contact
+## LICENSE
+This project is licensed under the MIT license. See Mit License.txt for more information. 
+
+## CONTACT
 
 For any questions, feedback, or inquiries, please contact me at lovelacegmf@gmail.com.
 
